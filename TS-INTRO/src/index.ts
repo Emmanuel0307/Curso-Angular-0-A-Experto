@@ -1,0 +1,5 @@
+
+/*
+codigo typeScript
+
+*/
